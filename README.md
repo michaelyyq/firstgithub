@@ -31,6 +31,7 @@ this is my first time to use github,which makes me excited.
 3. 创建新的文件`git add a.txt`
 4. 提交到本地代码库`git commit -m "saysomething"`
 5. 提交到github上`git push`
+6. `git push origin master`
 
 ## 打开github更新查看内容
 
